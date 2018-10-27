@@ -3,7 +3,7 @@
 ### Instructors: Romain Michon and Tim O'Brien
 #### extensive help and explaing from Mark Hertensteiner and Prateek Murgai
 
-### *Disclaimer:*  This is another homework assignment from Stanford's 256A class at CCRMA, fall 2016.  I had not coded before, this assignment was rough.  So rough, I put very little effort into the beat following the product [demo](https://www.youtube.com/watch?v=tUZAfj_6Vvg).
+### *Disclaimer:*  This is another homework assignment from Stanford's 256A class at CCRMA, fall 2016.  I had not coded before, this assignment was rough.  So rough, I put very little effort into the beat following the product [demo](https://www.youtube.com/watch?v=tUZAfj_6Vvg). -Walker 10/27/18
 
 Unfortunately, the plug-in I am submitting is pretty terrible.  I am unable to connect the visible plug-in slider to its corresponding faust parameter within the sawtone.h class.  I think this assignment requires a C++ and programming level of proficiency that far exceeds mine.  Fortunately, several of my classmates were nice and patient enough to walk me through the steps needed to make the plug-in work at a most basic level(thanks again Mark Hertensteiner, Prateek Murgai, Orchi Das, and Mike Olsen).  
 
